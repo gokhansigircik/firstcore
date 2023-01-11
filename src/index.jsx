@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
+  // jsx is synattic sugar for html in js
   <React.StrictMode>
     <App />
   </React.StrictMode>
